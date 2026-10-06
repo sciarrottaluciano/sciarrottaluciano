@@ -2,7 +2,6 @@
 
 <p align="center">
 Estudiante avanzado de Economía (UNLP) con formación en análisis de datos.
-Me interesa usar los datos para responder preguntas concretas y comunicar los resultados con claridad.
 </p>
 
 📊 **Qué trabajé con datos:**
