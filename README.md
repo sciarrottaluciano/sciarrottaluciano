@@ -5,11 +5,6 @@ Estudiante avanzado de Economía (UNLP) con formación en análisis de datos.
 Me interesa usar los datos para responder preguntas concretas y comunicar los resultados con claridad.
 </p>
 
-🎓 **Formación:**
-
-- Licenciatura en Economía, Universidad Nacional de La Plata (en curso)
-- Data Analytics, Coderhouse (2025)
-
 📊 **Qué trabajé con datos:**
 
 - Limpieza y transformación de datos con Power Query
