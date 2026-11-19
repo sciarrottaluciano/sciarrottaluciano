@@ -21,7 +21,7 @@ Estudiante avanzado de Economía (UNLP) con formación en análisis de datos.
 🚀 **Proyecto destacado:**
 
 - ♟️ **Efectividad del Mate Pastor por rango de ELO** (Power BI)<br>
-  Análisis de 6,2 millones de partidas de Lichess: el Mate Pastor funciona en 1 de cada 23 intentos, y su efectividad cae a menos de la mitad a medida que sube el nivel. [Ver repositorio](https://github.com/sciarrottaluciano/Analisis-efectividad-mate-pastor)
+  Análisis de 6,2 millones de partidas de Lichess: el Mate Pastor funciona en 1 de cada 23 intentos, y su efectividad cae a menos de la mitad a medida que sube el nivel. [Ver repositorio](https://github.com/sciarrottaluciano/analisis-efectividad-mate-pastor)
 
 ### Conectemos
 
