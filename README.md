@@ -9,7 +9,7 @@ Estudiante avanzado de Economía (UNLP) con formación en análisis de datos.
 - Limpieza y transformación de datos con Power Query
 - Medidas y cálculos en DAX
 - Reportes interactivos en Power BI
-- Definición de criterios para clasificar casos y marcar límites de significatividad estadística
+- Definición de criterios para clasificar casos y uso de intervalos de confianza para evaluar la precisión de los resultados
 
 🛠️ **Herramientas:**
 
